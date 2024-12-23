@@ -1,1 +1,3 @@
 print("MALINA")
+salom dunyo
+
